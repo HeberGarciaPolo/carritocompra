@@ -1,6 +1,12 @@
 
 [
     {
+      "precio": 1500,
+      "id": 7,
+      "title": "Baterias",
+      "thumbnailUrl": "/image/renata621.jpg"
+    },  
+    {
       "precio": 900,
       "id": 1,
       "title": "Café",
@@ -36,4 +42,5 @@
       "title": "Chela",
       "thumbnailUrl": "/image/chela.jpg"
     }
+
   ]
