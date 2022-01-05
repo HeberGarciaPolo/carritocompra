@@ -1,0 +1,39 @@
+
+[
+    {
+      "precio": 900,
+      "id": 1,
+      "title": "Café",
+      "thumbnailUrl": "/image/cafe.jpg"
+    },
+    {
+      "precio": 3000,
+      "id": 2,
+      "title": "Pizza",
+      "thumbnailUrl": "/image/pizza.jpg"
+    },
+    {
+      "precio": 10000,
+      "id": 3,
+      "title": "Agua",
+      "thumbnailUrl": "/image/Agua.jpg"
+    },
+    {
+      "precio": 5000,
+      "id": 4,
+      "title": "Sandía",
+      "thumbnailUrl": "/image/Sandia.jpg"
+    },
+    {
+      "precio": 2500,
+      "id": 5,
+      "title": "Mango",
+      "thumbnailUrl": "/image/Mango.jpg"
+    },
+    {
+      "precio": 15000,
+      "id": 6,
+      "title": "Chela",
+      "thumbnailUrl": "/image/chela.jpg"
+    }
+  ]
